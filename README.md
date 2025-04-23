@@ -8,7 +8,7 @@
 A modern, responsive admin dashboard built with React.js for managing users, orders, and analytics. Features real-time data visualization, theme customization, and role-based access control.
 
 ![Demo](https://via.placeholder.com/800x400.png?text=Admin+Dashboard+Demo)  
-*Replace with your demo GIF/screenshot*
+
 
 ---
 
