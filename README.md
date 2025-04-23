@@ -6,7 +6,7 @@
 
 A modern, responsive admin dashboard built with React.js for managing users, orders, and analytics. Features real-time data visualization, theme customization, and role-based access control.
 
-![Demo]((https://i.ibb.co.com/M5gkjNv6/admin-dashboard.jpg))  
+[https://i.ibb.co.com/M5gkjNv6/admin-dashboard.jpg] 
 
 
 ---
