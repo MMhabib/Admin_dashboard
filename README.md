@@ -2,12 +2,11 @@
 
 [![React](https://img.shields.io/badge/React-18.2.0-blue)](https://react.dev/)
 [![Syncfusion](https://img.shields.io/badge/Syncfusion-23.1.36-green)](https://www.syncfusion.com/)
-[![License](https://img.shields.io/badge/License-MIT-orange)](LICENSE)
-[![Build](https://img.shields.io/badge/Build-Passing-brightgreen)](https://github.com/yourusername/admin-dashboard)
+
 
 A modern, responsive admin dashboard built with React.js for managing users, orders, and analytics. Features real-time data visualization, theme customization, and role-based access control.
 
-![Demo](https://via.placeholder.com/800x400.png?text=Admin+Dashboard+Demo)  
+![Demo]((https://i.ibb.co.com/M5gkjNv6/admin-dashboard.jpg))  
 
 
 ---
@@ -26,6 +25,7 @@ A modern, responsive admin dashboard built with React.js for managing users, ord
 - **State Management**: React Context API
 - **Styling**: Tailwind CSS, Heroicons
 - **Build Tools**: Vite, npm
+- **Start Scripts**: npm start
 
 ---
 
